@@ -1,5 +1,9 @@
 # CameraQualityCheckNosync
 
+
+https://github.com/user-attachments/assets/fdb56b3e-f1a6-4523-bd69-4cb6d16f02b4
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
 
 ## Development server
