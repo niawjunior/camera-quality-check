@@ -1,4 +1,4 @@
-# CameraQualityCheckNosync
+# CameraQualityCheck
 
 
 https://github.com/user-attachments/assets/fdb56b3e-f1a6-4523-bd69-4cb6d16f02b4
